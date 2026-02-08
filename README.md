@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Levi (Luan)
+# 👋 Olá, eu sou Luan "Levi"
 
 Sou desenvolvedor freelancer com foco em **scripts, correção de bugs e otimização de sistemas**, principalmente no ecossistema **FiveM**.  
 Trabalho com desenvolvimento prático, manutenção de código e criação de soluções personalizadas para servidores.
