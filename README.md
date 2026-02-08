@@ -1,47 +1,57 @@
+# 👋 Olá, eu sou Levi (Luan)
+
+Sou desenvolvedor freelancer com foco em **scripts, correção de bugs e otimização de sistemas**, principalmente no ecossistema **FiveM**.  
+Trabalho com desenvolvimento prático, manutenção de código e criação de soluções personalizadas para servidores.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    align="left"
+    height="200"
+    alt="Tecnologias" 
+    src="https://github-readme-stats-ivory-mu-94.vercel.app/api/top-langs/?username=Levi-Diniz&count_private=true&layout=compact&theme=dark&locale=pt-br"
+  />
+  
+  <img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats-ivory-mu-94.vercel.app/api?username=Levi-Diniz&count_private=true&include_all_commits=true&locale=pt-br&theme=dark"
+  />
 
 
-<div align="center">
-  <a href="https://github.com/Levi-Diniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi-Diniz&show_icons=true&theme=ocean_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-Diniz&layout=compact&theme=ocean_dark"/>
-</div>
+</p>
 
-<div style="display: inline_block" align="center"><br>
-  <h3>Technologies</h3>
-  <img alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Roger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Roger-Next" height="35" width="35" src="https://img.icons8.com/fluency/900/nextjs.png">
-  <img alt="Roger-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- <img alt="Roger-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
-  <img alt="Roger-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Roger-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img alt="Roger-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <!-- <img alt="Roger-adobeXD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"> -->
-  <!-- <img alt="Roger-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> -->
-  <!-- <img alt="Roger-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> -->
-  <!-- <img alt="Roger-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> -->
+<br clear="both" />
+
+---
+
+## 🧠 Sobre mim
+
+- 💼 Desenvolvedor freelancer  
+- 🎮 +5 anos de experiência com **FiveM**
+- 🔧 Correção de bugs, refatoração e otimização
+- 📦 Desenvolvimento de scripts personalizados
+
+---
+
+🛠️ Tecnologias & Linguagens
+<p> <img align="left" alt="Lua" title="Lua" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> <strong>Lua</strong> (FiveM – client/server) </p> <p> <img align="left" alt="JavaScript" title="JavaScript" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <strong>JavaScript</strong> </p> <p> <img align="left" alt="HTML" title="HTML5" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <strong>HTML</strong> </p> <p> <img align="left" alt="CSS" title="CSS3" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <strong>CSS</strong> </p> <p> <img align="left" alt="React" title="React" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <strong>React</strong> </p> <p> <img align="left" alt="Next.js" title="Next.js" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <strong>Next.js</strong> </p> <p> <img align="left" alt="Node.js" title="Node.js" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <strong>Node.js</strong> </p> <p> <img align="left" alt="SQL" title="SQL" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <strong>SQL</strong> </p> <p> <img align="left" alt="Figma" title="Figma" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <strong>Figma</strong> </p> <p> <img align="left" alt="Discord" title="Discord" width="22px" style="padding-right:6px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" /> <strong>Integrações com Discord</strong> (logs / webhooks / bots) </p>
+
+## 📫 Contato
 
 
-  ##
+> Código limpo, funcional e focado em performance.
+
  
-<div align="center"> 
-  <h3>Contact me</h3>
-  <a href="mailto:luantpb46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-diniz-ab6a56281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ##
-  
+<p align="center">
+ 
   ![Snake animation](https://github.com/rogerbatt/rogerbatt/blob/output/github-contribution-grid-snake-dark.svg)
  
-</div>
+</p>
 
-<br>
-<br>
-<br>
 
-<div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Levi-Diniz}/count.svg" /></p> 
-</div>
 
